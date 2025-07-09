@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" alt="Hi, my name is Ziad Ahrbil!" style="width: 100%; max-width: 600px; display: block; margin: 0 auto; border-radius: 8px;">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziadev25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
@@ -30,11 +26,11 @@
 
 <h3 align="left" style="font-family: 'Segoe UI', Arial, sans-serif; color: #ADD8E6;">Rapid Fire:</h3>
 
-<ul style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.1em; color: #E0E0E0;">
-  <li>💼 I'm currently working on: <strong>Mastering foundational concepts in Computer Science and Software Development.</strong></li>
-  <li>🌱 I'm currently learning: <strong>C Language, Data Structures & Algorithms, Command Line, Debugging, Operating Systems & Networking Basics, and Git & GitHub.</strong></li>
-  <li>💬 Ask me about: <strong>My self-taught journey, foundational computer science concepts, C programming, and strategies for structured learning.</strong></li>
-  <li>⚡ Fun fact: <strong>Still thinking about it!</strong></li>
+<ul style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.1em; color: #E0E0E0; list-style-type: '👉 '; padding-left: 25px;">
+  <li><strong>💼 Currently Mastering:</strong> Foundational concepts in Computer Science and Software Development.</li>
+  <li><strong>🌱 Currently Learning:</strong> C, Data Structures & Algorithms, Command Line, Debugging, OS & Networking Basics, and Git & GitHub.</li>
+  <li><strong>💬 Ask Me About:</strong> My self-taught journey, CS fundamentals, C programming, and structured learning strategies.</li>
+  <li><strong>⚡ Fun Fact:</strong> Still cooking up something interesting!</li>
 </ul>
 
 ---
