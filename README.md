@@ -19,7 +19,7 @@
 ---
 
 <p align="left" style="font-family: 'Segoe UI', Arial, sans-serif; color: #ADD8E6; line-height: 1.5;">
-  I'm a highly motivated <strong>Self-Taught Software Engineer</strong> and <strong>Aspiring Full Stack Web Developer</strong>, who started my coding journey in April 2025. My passion lies in building robust and user-friendly web applications, and I'm committed to mastering the fundamentals of computer science and software development.
+  I'm a highly motivated <strong>Self-Taught Software Engineer</strong> and <strong>Aspiring Full Stack Web Developer</strong>. My passion lies in building robust and user-friendly web applications, and I'm committed to mastering the fundamentals of computer science and software development.
 </p>
 
 ---
