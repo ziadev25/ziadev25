@@ -30,7 +30,6 @@
   <li><strong>💼 Currently Mastering:</strong> Foundational concepts in Computer Science and Software Development.</li>
   <li><strong>🌱 Currently Learning:</strong> C, Data Structures & Algorithms, Command Line, Debugging, OS & Networking Basics, and Git & GitHub.</li>
   <li><strong>💬 Ask Me About:</strong> My self-taught journey, CS fundamentals, C programming, and structured learning strategies.</li>
-  <li><strong>⚡ Fun Fact:</strong> Still cooking up something interesting!</li>
 </ul>
 
 ---
