@@ -10,7 +10,6 @@
 
 <h3 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #ADD8E6;">Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/ziadev25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 8px;"></a>
   <a href="https://www.codechef.com/users/ziadev25" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B3C2C?style=for-the-badge&logo=codechef&logoColor=white" height="32" style="margin-right: 8px;"></a>
   <a href="https://www.linkedin.com/in/ziadev25" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 8px;"></a>
   <a href="mailto:ziadahrbil.se.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 8px;"></a>
@@ -39,7 +38,7 @@
 <h4 style="font-family: 'Segoe UI', Arial, sans-serif; color: #C0C0C0;">Programming Languages</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="C" style="margin-right: 8px;">
-  <img src="https://skillicons.dev/icons?i=cplusplus" height="35" alt="C++" style="margin-right: 8px;">
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="C++" style="margin-right: 8px;">
 </p>
 
 <h4 style="font-family: 'Segoe UI', Arial, sans-serif; color: #C0C0C0;">Core CS & Development Fundamentals</h4>
