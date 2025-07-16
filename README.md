@@ -28,7 +28,7 @@
 
 <ul style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 1.1em; color: #E0E0E0; list-style-type: '👉 '; padding-left: 25px;">
   <li><strong>💼 Currently Mastering:</strong> Foundational concepts in Computer Science and Software Development.</li>
-  <li><strong>🌱 Currently Learning and Practicing:</strong>  C, C++, Data Structures & Algorithms, Terminal Bash, Debugging, OS & Networking Basics, and Git & GitHub. "</li>
+  <li><strong>🌱 Currently Learning and Practicing:</strong> C, C++, Data Structures & Algorithms, Terminal Bash, Debugging, OS & Networking Basics, and Git & GitHub.</li>
   <li><strong>💬 Ask Me About:</strong> My self-taught journey, CS fundamentals, C programming, and structured learning strategies.</li>
 </ul>
 
@@ -39,7 +39,7 @@
 <h4 style="font-family: 'Segoe UI', Arial, sans-serif; color: #C0C0C0;">Programming Languages</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="C" style="margin-right: 8px;">
-  <img src="https://skillicons.dev/icons?i=c++" height="35" alt="C++" style="margin-right: 8px;"> 
+  <img src="https://skillicons.dev/icons?i=cplusplus" height="35" alt="C++" style="margin-right: 8px;">
 </p>
 
 <h4 style="font-family: 'Segoe UI', Arial, sans-serif; color: #C0C0C0;">Core CS & Development Fundamentals</h4>
