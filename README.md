@@ -53,10 +53,3 @@ I'm a highly motivated **Self-Taught Software Engineer** and **Aspiring Full Sta
 </p>
 
 ---
-
-### GitHub Stats:
-
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziadev25&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&title_color=ADD8E6&icon_color=ADD8E6&text_color=E0E0E0&bg_color=1F2428" alt="GitHub stats Card" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadev25&theme=dark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false&title_color=ADD8E6&icon_color=ADD8E6&text_color=E0E0E0&bg_color=1F2428" alt="GitHub top-langs Card" />
-</p>
