@@ -51,5 +51,3 @@ I'm a highly motivated **Self-Taught Software Engineer** and **Aspiring Full Sta
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
   <img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logoColor=white" alt="Command Line Interface">
 </p>
-
----
