@@ -6,7 +6,7 @@
 
 ---
 
-### Connect with me:
+### My Profiles :
 <p align="center">
   <a href="https://www.codechef.com/users/ziadev25" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B3C2C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
   <a href="https://www.linkedin.com/in/ziadev25" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
